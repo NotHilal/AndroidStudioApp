@@ -56,11 +56,11 @@ val levelIntros = mapOf(
             IntroPage(
                 description = "Enemies roam randomly arround the map, they are very unpredictable but thankfully we managed to find a way to stop them for 5 turns ! Use the freeze button on your watch for that but you might need some fuel somehow..",
                 imageRes = R.drawable.lvl2freeze
-            ),
-            IntroPage(
-                description = "Because we wanted to be nice we included a way for you to  save your gamestate in case something bad happens to you, so good luck out there !",
-                imageRes = R.drawable.lvl2save
-            ),
+            )
+//            IntroPage(
+//                description = "Because we wanted to be nice we included a way for you to  save your gamestate in case something bad happens to you, so good luck out there !",
+//                imageRes = R.drawable.lvl2save
+//            ),
 
         )
     ),
