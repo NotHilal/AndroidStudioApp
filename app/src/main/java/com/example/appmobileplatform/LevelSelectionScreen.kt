@@ -17,7 +17,7 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.DialogProperties
 import androidx.navigation.NavController
 
-var currentLvl = 1
+var currentLvl = 3
 
 @Composable
 fun LevelSelectionScreen(navController: NavController) {
